@@ -13,5 +13,10 @@ public class App {
     public App() {
 
     }
+
+    private String register(String name, String password, String email, String number, String lastname) {
+
+        return "Udało się zarejestrować";
+    }
 }
 
